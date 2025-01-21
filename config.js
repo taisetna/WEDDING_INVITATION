@@ -15,7 +15,7 @@ export const GROOM_MOTHER_ACCOUNT_NUMBER = "카카오뱅크 3333-17-6428532";
 
 export const BRIDE_NAME = "최한나";
 export const BRIDE_ACCOUNT_NUMBER = "카카오뱅크 3333-01-6029423";
-export const BRIDE_FATHER_NAME = "○○○";
+export const BRIDE_FATHER_NAME = "최경일";
 export const BRIDE_FATHER_ACCOUNT_NUMBER = "카카오뱅크 3333-01-6029423";
-export const BRIDE_MOTHER_NAME = "○○○";
+export const BRIDE_MOTHER_NAME = "신명선";
 export const BRIDE_MOTHER_ACCOUNT_NUMBER = "카카오뱅크 3333-01-6029423";
