@@ -1,10 +1,10 @@
 export const WEDDING_INVITATION_URL = "http://localhost:8000/";
-export const KAKAOTALK_API_TOKEN = "ff8a6a94309350431c6e474766a38998";
+export const KAKAOTALK_API_TOKEN = "5f26cc04d68bcb001c52f0b08b7ae467";
 export const KAKAOTALK_SHARE_IMAGE =
   "https://cdn.pixabay.com/photo/2014/11/13/17/04/heart-529607_960_720.jpg";
 
-export const WEDDING_DATE = "2025년 10월 18일, 금요일 오후 3시 00분";
-export const WEDDING_LOCATION = "테이크 호텔 서울 광명 루미나스 홀";
+export const WEDDING_DATE = "2025년 10월 18일, 금요일 오후 3시";
+export const WEDDING_LOCATION = "테이크 호텔 광명 루미나스 홀";
 
 export const GROOM_NAME = "최창현";
 export const GROOM_ACCOUNT_NUMBER = "카카오뱅크 3333-17-6428532";

@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `weddingInvitation`,
-    siteUrl: `https://www.yourdomain.tld`
+    title: `wedding Invitation`,
+    siteUrl: `https://hannachang-wedding-invitation.netlify.app`
   },
   plugins: ["gatsby-plugin-styled-components"]
 };
